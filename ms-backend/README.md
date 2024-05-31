@@ -15,7 +15,7 @@
 ![photo_5388698095820333121_w](https://github.com/gunelbalayeva/Dependency-injection-/assets/129526795/dea73564-9a77-41f1-b9a3-3fd899c46653)
 
 #### Build Delete Employees REST API
-![photo_5388698095820332784_w](https://github.com/gunelbalayeva/Dependency-injection-/assets/129526795/bf49e3e9-469a-481d-a3bf-3b5326aa45b9)
+![photo_5388698095820332784_w](https://github.com/gunelbalayeva/Dependency-injecgit tion-/assets/129526795/bf49e3e9-469a-481d-a3bf-3b5326aa45b9)
 
 
 
