@@ -19,3 +19,4 @@
 
 
 
+//giris etmeye cehd ele zehmet olmasa git init? 
